@@ -1,0 +1,33 @@
+Flask==3.1.0
+mysql-connector-python==8.1.0
+Werkzeug==3.1.3
+ultralytics==8.0.0
+opencv-python-headless==4.7.0.72
+numpy==1.24.3
+Pillow==9.5.0
+pip install flask mysql-connector-python werkzeug deepface ultralytics dlib face-recognition bcrypt flask-wtf
+pip install flask-socketio
+pip install pyautogui opencv-python numpy dlib face-recognition deepface flask flask-socketio mysql-connector-python werkzeug pillow ultralytics tensorflow
+pip install pyautogui
+
+
+
+
+Flask==2.3.2
+mysql-connector-python==8.0.33
+Werkzeug==2.3.7
+python-dotenv==1.0.0
+Pillow==10.0.0
+opencv-python==4.8.0.76
+numpy==1.24.3
+deepface==0.0.79
+ultralytics==8.0.196
+tensorflow==2.13.0
+dlib==19.24.2
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+imutils==0.5.4
+gunicorn==20.1.0
+gevent==22.10.2
+python-dateutil==2.8.2
+concurrent-log-handler==0.9.24
