@@ -37,9 +37,9 @@ app.secret_key = os.environ.get('SECRET_KEY', 'your_secret_key')  # Use environm
 
 # MySQL Database Configuration
 db_config = {
-    'host': '',
-    'user': '',
-    'password': '',
+    'host': 'localhost',
+    'user': 'root',
+    'password': '12309857',
     'database': 'proctor'
 }
 
